@@ -30,3 +30,7 @@
 </picture>
 
 ###
+👋 Hola, soy Maicol  
+💻 Desarrollador Junior  
+🚀 Tecnologías: Python, Java, HTML, CSS, JS  
+📂 Proyectos: Sistemas de login, CRUD, juegos  
