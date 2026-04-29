@@ -5,7 +5,7 @@
 
 ## 👨‍💻 Sobre mí
 👋 Hola, soy **Maicol**  
-💻 Desarrollador Junior  
+💻 Desarrollador Web Junior (Frontend con bases en Backend)  
 🚀 Apasionado por la programación y el aprendizaje constante  
 
 ---
